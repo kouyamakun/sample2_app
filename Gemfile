@@ -16,7 +16,7 @@ end
 # Use SCSS for stylesheets
 gem 'sass-rails', '4.0.5'
 # Use Uglifier as compressor for JavaScript assets
-gem 'uglifier', ' 2.1.1'
+gem 'uglifier', '2.1.1'
 # Use CoffeeScript for .js.coffee assets and views
 gem 'coffee-rails', '4.0.1'
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
@@ -51,4 +51,4 @@ end
 # gem 'debugger', group: [:development, :test]
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem 'tzinfo-data', platforms: [:mingw, :mswin]
+#gem 'tzinfo-data', platforms: [:mingw, :mswin]
